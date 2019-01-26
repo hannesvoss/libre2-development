@@ -1,0 +1,96 @@
+** TagInfo scan (version 4.24.4) 2019-01-26 21:02:37 **
+Report Type: External
+
+-- IC INFO ------------------------------
+
+# IC manufacturer:
+Texas Instruments
+
+# IC type:
+Unknown IC implementing Iso 15693
+
+-- NDEF ------------------------------
+
+# No NDEF data storage populated:
+
+-- EXTRA ------------------------------
+
+# Memory size:
+2048 bytes
+* 256 blocks, with 8 bytes per block
+
+# IC detailed information:
+Supported read commands:
+* Single Block Read
+* Multiple Block Read
+* Get System Information
+AFI not supported
+DSFID not supported
+
+-- FULL SCAN ------------------------------
+
+# Technologies supported:
+ISO/IEC 15693-3 compatible
+ISO/IEC 15693-2 compatible
+
+# Android technology information:
+Tag description:
+* TAG: Tech [android.nfc.tech.NfcV, android.nfc.tech.NdefFormatable]
+* Maximum transceive length: 253 bytes
+MIFARE Classic support present in Android
+
+# Detailed protocol information:
+ID: E0:07:A4:00:00:36:52:5C
+DSFID: 0x00
+
+# Memory content:
+[00] . 09 BC 79 67 33 A4 3C 3D |␉.yg3.<=|
+[01] * 23 BC 17 55 89 6C AD 64 |#.␗U.l.d|
+[02] . 9E EC 84 AF C1 46 F4 7F |.....F.␡|
+[03] . 7A 0E 14 9B 2F 25 AD FF |z␎␔./%..|
+[04] * FD 7B 8A 15 8E 56 D1 56 |.{.␕.V.V|
+[05] * 0A A3 43 4C 9B 02 90 22 |␊.CL.␂."|
+[06] . 50 F9 C9 60 4C 2D D2 2C |P..`L-.,|
+[07] * A7 7F D6 E6 AE 98 5E B6 |.␡....^.|
+[08] . 19 2D 86 03 75 CF 68 CE |␙-.␃u.h.|
+[09] . 46 45 CD 7D 68 FE 74 F2 |FE.}h.t.|
+[0A] . 19 70 95 89 27 FF 46 0E |␙p..'.F␎|
+[0B] . B4 F3 E0 4C 45 D0 F5 E2 |...LE...|
+[0C] . 1C 11 86 D3 07 38 25 3F |␜␑..␇8%?|
+[0D] . D6 6A 69 92 C3 7B 02 1C |.ji..{␂␜|
+[0E] * 85 37 50 75 ED 01 26 C5 |.7Pu.␁&.|
+[0F] . 8D DA 8E A1 2C DF 14 42 |....,.␔B|
+[10] * DA 98 50 76 4C 75 98 05 |..PvLu.␅|
+[11] . E3 79 4B 93 94 41 F0 81 |.yK..A..|
+[12] . 01 6A 78 7B 40 4A 03 F2 |␁jx{@J␃.|
+[13] * 67 97 8A 9E 1C C0 BF A4 |g...␜...|
+[14] . E6 4D 42 26 A5 C4 F9 1C |.MB&...␜|
+[15] * AC 99 F8 0A F2 40 1F 25 |...␊.@␟%|
+[16] * 84 C2 9D 89 18 32 C8 CF |....␘2..|
+[17] * 91 CD 62 3B 7C EF E8 A4 |..b;|...|
+[18] * 5E 19 66 41 10 89 6D 8D |^␙fA␐.m.|
+[19] * CD 45 1A 58 14 07 B7 CF |.E␚X␔␇..|
+[1A] * 2B D7 40 65 EC A1 70 FB |+.@e..p.|
+[1B] . 11 42 22 00 9B F5 80 B5 |␑B"␀....|
+[1C] . BF 43 C7 45 46 B6 1C 2F |.C.EF.␜/|
+[1D] . 31 39 7F E5 CD 30 82 55 |19␡..0.U|
+[1E] . E0 33 9B 92 84 3D 1F 82 |.3...=␟.|
+[1F] * 09 1C 69 DA 80 F0 E3 0B |␉␜i....␋|
+[20] . 1F 83 92 21 73 8C 2B 46 |␟..!s.+F|
+[21] * 78 CC AC 9F FD EC 10 59 |x.....␐Y|
+[22] . 0E 6A 8D BA 00 AA CB 4E |␎j..␀..N|
+[23] * 80 C3 DD 16 0F D0 AC F2 |...␖␏...|
+[24] * 78 CF C3 2B 8E B5 A4 6C |x..+...l|
+[25] * 8B 64 BE 14 AE 7E BC 12 |.d.␔.~.␒|
+[26] . A7 00 00 00 00 00 00 00 |.␀␀␀␀␀␀␀|
+[27] . 00 00 00 00 00 00 00 00 |␀␀␀␀␀␀␀␀|
+[28] . 00 00 00 00 00 00 00 00 |␀␀␀␀␀␀␀␀|
+[29] . 00 00 00 00 00 00 00 00 |␀␀␀␀␀␀␀␀|
+[2A] . 00 00 00 00 00 00 00 00 |␀␀␀␀␀␀␀␀|
+
+<aborted: read error>
+
+  x:user locked, *:factory locked, .:unlocked
+
+--------------------------------------
+
